@@ -1,0 +1,1 @@
+// Eliminates unused global variables
