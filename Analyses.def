@@ -1,0 +1,9 @@
+// Analyses.def
+// Copyright (c) Lup Gratian
+//
+// Contains the list with all the available analyses, providing the class name,
+// analysis Id, name and command-line tool name.
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Analysis Class, ID, Name, Command-line name
+analysis(DominatorTree, 1, "Dominator Tree", "domtree")
+analysis(DominatorTree, 1, "Dominator Tree", "domtree")
